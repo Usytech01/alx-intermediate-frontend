@@ -1,0 +1,7 @@
+# npm install sass -v 3.7.4SASS Installation Steps
+1. Then exit and reopen the terminal.
+3. Make sure Node.js is installed (node -v).
+4. Install SASS using npm:
+   npm install sass -v 3.7.4
+5. Verify SASS installation:
+   npx sass --version
